@@ -1,4 +1,4 @@
-name: Proof HTML
+iname: Proof HTML
 on:
   push:octocat :+1: This PR looks great - it's ready to merge! :shipit:
   workflow_dispatch:
